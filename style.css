@@ -114,7 +114,7 @@ textarea {
 
 .button {
   /* Para posicionar os botões na mesma posição dos campos de texto */
-  padding-left: 890px; /* mesmo tamanho que os elementos do rótulo */
+  padding-left: 90px; /* mesmo tamanho que os elementos do rótulo */
 }
 
 button {
